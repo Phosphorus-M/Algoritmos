@@ -19,7 +19,7 @@ Turno noche:
 
 ## [Codigos realizados](https://github.com/Phosphorus-M/C/tree/master/src/Clases):
 
-- ## [Hola Mundo](https://github.com/Phosphorus-M/C/blob/master/src/Clases/1-HolaMundo.java)
+- ## [Hola Mundo](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo.c)
 Clasico mensaje de "Hola Mundo" escrito en C.
 
 

@@ -17,7 +17,7 @@ Turno noche:
 ## Alumnos contribuyentes al repositorio:
 [Fernando Pastorelli / Phosphorus Moscu](https://github.com/Phosphorus-M)
 
-## [Codigos realizados](https://github.com/Phosphorus-M/Algoritmos/tree/master/src/Clases):
+## [Codigos realizados](https://github.com/Phosphorus-M/Algoritmos/tree/master/Clases):
 
 - ## [Hola Mundo](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo.c)
 Clasico mensaje de "Hola Mundo" escrito en C.

@@ -3,12 +3,13 @@ Material de realizado para las clases de Algoritmos y Estructura de Datos de la 
 Ciclo lectivo 2017.
 
 ## Docentes:
+### Turno Mañana:
 * Carina Paz
 * Pedro Occhipinti
 * Alan Garcia
 * Ariel Artese
 ***
-Turno noche:
+### Turno noche:
 * Silvia Cuagliarelli
 * Jorge Fosatti
 * Ariel Artese

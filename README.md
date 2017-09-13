@@ -19,6 +19,8 @@ Turno noche:
 
 [Ezequiel Benitez ](https://github.com/Ezekidosh)
 
+Nicolás Dornel
+
 ## [Codigos realizados](https://github.com/Phosphorus-M/Algoritmos/tree/master/Clases):
 
 - ## [Hola Mundo](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo.c)

@@ -1,10 +1,10 @@
 /*********************************************************************************************************
-##                        Pasaje por referencia de un vector - Nicolás Dornel.c
+##                        1 - Pasaje por referencia de un vector - Nicolás Dornel.c
 ##                    -------------------
 ##          begin:        Wednesday', September 13', 2017
 ##          copyright:    ('C) 2017 Nicolás Dornel
 ##
-##          $Id:          Pasaje por referencia de un vector - Nicolás Dornel.c, v 1.0 2017/9/13 1:19:40
+##          $Id:          1 - Pasaje por referencia de un vector - Nicolás Dornel.c, v 1.0 2017/9/13 1:19:40
 ##
 ##
 **********************************************************************************************************/

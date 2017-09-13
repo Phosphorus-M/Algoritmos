@@ -9,6 +9,7 @@ Ciclo lectivo 2017.
 * Alan Garcia
 * Ariel Artese
 ***
+
 ### Turno noche:
 * Silvia Cuagliarelli
 * Jorge Fosatti
@@ -22,9 +23,11 @@ Ciclo lectivo 2017.
 
 Nicolás Dornel
 
+Agustina Brutti
+
 ## [Codigos realizados](https://github.com/Phosphorus-M/Algoritmos/tree/master/Clases):
 
-- ## [Hola Mundo](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo.c)
+- ## [Hola Mundo](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo%20-%20Fernando%20Pastorelli.c)
 Clasico mensaje de "Hola Mundo" escrito en C.
 
 ## [Diagramas de Flujos](https://github.com/Phosphorus-M/Algoritmos/tree/master/Diagramas%20de%20Flujo):
@@ -49,6 +52,14 @@ Clasico mensaje de "Hola Mundo" escrito en C.
 		A. Cantidad de superaciones rojas x micro.
 		B. Promedio de velocidad de superaciones amarillas.
 		C. Velocidad máxima en base al reporte de todos los micros, informando además el número de micro que la realizó.
+
+## [Contribuciones no dependientes de las clases](https://github.com/Phosphorus-M/Algoritmos/tree/master/Contribuciones%20no%20dependientes%20de%20las%20clases)
+
+- ## [Hola Mundo + Suma](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Hola%20Mundo%20+%20Suma%20-%20Agus%20Brutti.c)
+Clasico mensaje de "Hola Mundo" y una funcion de Suma escrito en C .
+
+- ## [Pasaje por referencia de un vector](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Pasaje%20por%20referencia%20de%20un%20vector%20-%20Nicolás%20Dornel.c)
+Se ingresa valores a un vector y se muestran al final del programa.
 
 ***
 

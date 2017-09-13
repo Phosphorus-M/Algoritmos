@@ -61,6 +61,9 @@ Clasico mensaje de "Hola Mundo" y una funcion de Suma escrito en C .
 - ## [Pasaje por referencia de un vector](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20Pasaje%20por%20referencia%20de%20un%20vector%20-%20Nicolás%20Dornel.c)
 Se ingresa valores a un vector y se muestran al final del programa.
 
+- ## [BOMBA FORT](https://github.com/Phosphorus-M/Algoritmos/blob/master/Clases/1%20-%20BOMBA%20FORT%20-%20Anonimo.c)
+Se ingresa un numero del 1 al 5 y devuelve una frase de [Ricardo Fort](https://es.wikipedia.org/wiki/Ricardo_Fort). Según el anonimo esto fue hecho para una situación especial para la comunidad de la pagina de Facebook [Me Pasó En Sistemas](https://www.facebook.com/MePasoEnSistemas/).
+
 ***
 
 Este repositorio esta licenciado bajo los termino [GPL V3](LICENSE.md) por lo que si desea contribuir con el respositorio podra ser incluido al repositorio sus cambios sin ningún problema.

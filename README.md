@@ -15,7 +15,9 @@ Turno noche:
 * Carlos Menendez
 
 ## Alumnos contribuyentes al repositorio:
-[Fernando Pastorelli / Phosphorus Moscu](https://github.com/Phosphorus-M)
+[Fernando Pastorelli / Phosphorus Moscu](https://github.com/Phosphorus-M).
+
+[Ezequiel Benitez ](https://github.com/Ezekidosh)
 
 ## [Codigos realizados](https://github.com/Phosphorus-M/Algoritmos/tree/master/Clases):
 
